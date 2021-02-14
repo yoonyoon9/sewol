@@ -1,2 +1,0 @@
-# TD
-Bootstrap intro
